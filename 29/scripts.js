@@ -60,5 +60,3 @@ document.customForm.addEventListener('submit', function(e) {
 	this.reset();
 
 });
-
-timer(124);
